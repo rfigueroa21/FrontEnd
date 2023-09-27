@@ -1,0 +1,80 @@
+* {
+    margin-left:0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    
+}
+
+#perfilFoto {
+    border-radius: 100%;
+    width: 150px;
+    float: left;
+    padding-bottom: 10px;
+}
+
+#background{
+   margin: 10%;
+
+}
+
+header{
+    background-color: rgb(227, 232, 235);
+    height: 125px;
+    padding-left: 2%;
+    padding-top: 20px;
+    text-align: left;
+}
+
+h1{
+    padding-top:30px;
+    padding-left: 180px;
+}    
+
+.chats{
+    width: 40%;
+    height: 130px;
+    background-color: rgb(251, 251, 252);
+}
+
+.chatFoto {
+    padding-top: 10px;
+    padding-left: 3%;
+    border-radius: 100%;
+    width: 150px;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.chatNombre {
+    padding-left: 180px;
+    padding-top: 30px;
+}
+
+.limpiar {
+    clear: both;
+}
+
+.chatMensaje {
+    padding-left: 180px;
+    padding-bottom: 30px;
+}
+
+#disclaimer {
+    background-color: rgba(96, 192, 152, 0.781);
+    color: grey;
+    position: fixed;
+    width: 100%;
+    font-size: 2vw;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    bottom: 0px;
+}
+
+#background{
+    width:60%;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    height: fit-content;
+    float: right;
+}
